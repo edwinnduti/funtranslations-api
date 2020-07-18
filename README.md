@@ -2,7 +2,7 @@
 
 An API using funtranslations.com
 
-##Description:
+## Description:
         This is a simple API for translation text
 given into any of the choosen translations using f
 untranslations API.
