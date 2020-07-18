@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/Language-GO-lightblue.svg)
 # funtranslations-api
 
 An Go API using funtranslations.com
