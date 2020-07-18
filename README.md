@@ -1,4 +1,6 @@
-# funtranslations-api                                                An API using funtranslations.com                  Created on 18 July,2020                           Author: Edwin Nduti
+# funtranslations-api
+
+An API using funtranslations.com
 
 ##Description:
         This is a simple API for translation text
