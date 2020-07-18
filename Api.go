@@ -33,7 +33,8 @@ func main(){
 	start := time.Now()
 
 	//text entered must be of string type
-	Text := "456"
+        var Text string
+	Text = "456"
 
 	//the uri for the API
 	uri := "https://api.funtranslations.com/translate/"+Num+".json?text="+Text
